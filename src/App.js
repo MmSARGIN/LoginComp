@@ -3,7 +3,7 @@ import Login from "./comp/Login";
 
 function App() {
   return (
-    <div>
+    <div className="flex justify-center">
       <Login/>
     </div>
   );
